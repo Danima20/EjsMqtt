@@ -1,8 +1,5 @@
-# -*- coding: utf-8 -*-
 """
-Created on Sun Apr 16 17:29:49 2023
-
-@author: danie
+@author: Daniel Martinez
 """
 from paho.mqtt.client import Client
 import sys
